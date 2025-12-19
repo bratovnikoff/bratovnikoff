@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**bratovnikoff/bratovnikoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+{
+  "personal": {
+    "name": "Iaroslav Bratovnikov",
+    "role": "Frontend Developer",
+    "location": "Moscow, Russia",
+    "pronouns": "he/him"
+  },
+  "technologies": {
+    "expert": ["JS", "TS", "Node", "React", Next.js],
+    "advanced": ["Redux", "MobX"],
+    "learning": ["Express", "NestJS"]
+  },
+  "contacts": {
+    "email": "bratovnikoff@gmail.com",
+    "telegram": "@bratovnikoff",
+  }
+}
+```
+![](https://leetcard.jacoblin.cool/bratovnikoff)
